@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="Center">
+        <item>Aliabada</item>
+        <item>Aliabadb</item>
+    </string-array>
+    <string-array name="Qualit">
+        <item>bbmod</item>
+        <item>bbspl</item>
+        <item>mech</item>
+
+    </string-array>
+
+    <string-array name="pressingfactory">
+        <item>ranicotton mils</item>
+        <item>abc cottons</item>
+        <item>xyz cottons</item>
+
+    </string-array>
+
+</resources>
